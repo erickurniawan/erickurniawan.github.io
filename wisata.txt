@@ -16,6 +16,7 @@
       <th>Weekday (Rp)</th>
       <th>Weekend/Libur (Rp) </th>
     </tr>
+    </tr>
   </thead>
   <tfoot>
     <tr>
